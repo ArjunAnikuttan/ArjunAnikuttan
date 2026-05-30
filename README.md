@@ -25,35 +25,15 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
-public class Arjun {
-
-    String name        = "Arjun Anikuttan";
-    String location    = "Indore, Madhya Pradesh, India 🇮🇳";
-    String role        = "Java Full Stack Developer @ TCS";
-    String degree      = "B.Tech CSE — CUCEK (CGPA: 8.14)";
-
-    String[] stack = {
-        "Java", "Spring Boot", "Angular",
-        "Spring Security", "JPA/Hibernate",
-        "Docker", "Kubernetes", "Jenkins"
-    };
-
-    String[] currentlyLearning = {
-        "CAS 7.x SSO Architecture",
-        "Apereo CAS + LDAP / Active Directory",
-        "Advanced Kafka Streaming Patterns"
-    };
-
-    String funFact = "I built a bionic hand with Arduino 🤖";
-
-    String motto() {
-        return "Clean code, scalable systems, zero excuses.";
-    }
-}
-```
+- 🏢 **Java Full Stack Developer** at Tata Consultancy Services, Indore
+- 🎓 B.Tech in Computer Science 
+- 🔭 Currently working on **BFSI microservices** with Spring Boot & Angular
+- 🌱 Learning **Kubernetes**, **Kafka**, and **Spring Security** (OAuth2/JWT)
+- 🤖 Fun fact — I built a working **bionic hand** with Arduino & flex sensors
+- 💬 Ask me about **Spring Boot**, **REST APIs**, **Docker**, or **CAS/SSO**
+- 📫 Reach me at **arjunanikuttancs@gmail.com**
 
 <br clear="right"/>
 
