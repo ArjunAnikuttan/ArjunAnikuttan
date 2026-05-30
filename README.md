@@ -59,7 +59,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -116,12 +115,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArjunAnikuttan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
-
 ---
 
 ## 💼 Work Experience
@@ -159,37 +152,6 @@
 - Applied best practices in **RESTful API** design and frontend responsiveness, delivering production-ready web solutions within a 2-month intensive internship.
 
 </details>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [**BFSI Microservices Platform**](#) | Java · Spring Boot · Angular · Spring Security · OAuth2/JWT · JPA | High-availability banking backend with CAS + LDAP/AD auth, RBAC enforcement, and fault-tolerant microservices architecture |
-| [**Arduino Bionic Hand**](#) | Arduino · Embedded C | Flex-sensor wearable glove replicating human finger motion; deployable in high-heat & high-voltage hazardous environments |
-| [**Speech-to-Sign Language Translator**](#) | Python · Django · Blender | Web app bridging deaf/mute ↔ hearing communication; voice recognition → real-time sign language animations via Blender |
-| [**Service Booking Web App**](#) | Java · MySQL | Full CRUD household services platform with admin management, user booking history, and MySQL-backed data layer |
-
-</div>
-
----
-
-## 🎯 Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **B.Tech in Computer Science & Engineering** | CGPA: **8.14 / 10.0** — Cochin University College of Engineering, Alappuzha (2020–2024) |
-| 🏢 | **TCS Internal Training Program — Completed** | Intensive training in software development, system integration & emerging technologies at Tata Consultancy Services |
-| 🤖 | **Arduino Bionic Hand — Hardware Build** | Independently designed, built & programmed an Arduino-controlled prosthetic hand with resistive flex sensors |
-| 🌐 | **MERN Stack Internship** | Built & deployed production MERN applications within 2 months at Futura Labs, Kochi |
-| 🔐 | **BFSI CAS + LDAP Integration** | Delivered enterprise SSO (Apereo CAS 7.x upgrade) with Active Directory auth in a live banking environment |
-
-</div>
 
 ---
 
